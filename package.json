@@ -1,0 +1,24 @@
+{
+  "name": "developervillage",
+  "version": "1.0.0",
+  "description": "1. Create the datatype for users",
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/developerVillage01/developerVillage.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/developerVillage01/developerVillage/issues"
+  },
+  "homepage": "https://github.com/developerVillage01/developerVillage#readme",
+  "devDependencies": {
+    "nodemon": "^3.0.2"
+  }
+}
